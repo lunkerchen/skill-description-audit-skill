@@ -5,6 +5,8 @@ Audit and improve Hermes skill descriptions to maximize trigger accuracy.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Hermes Agent](https://img.shields.io/badge/Hermes-1.0+-blue)
 
+[繁體中文說明](./README.zh-TW.md)
+
 ## What It Does
 
 Hermes uses skill descriptions as the **only** signal to decide which skill to load.

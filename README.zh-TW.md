@@ -5,6 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Hermes Agent](https://img.shields.io/badge/Hermes-1.0+-blue)
 
+[English Documentation](./README.md)
+
 ## 功能說明
 
 Hermes 使用技能描述作為**唯一**的信號來決定載入哪個技能。
